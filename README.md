@@ -7,3 +7,6 @@ Predicted rental bike demand data in a metropolitan city by comparing three diff
 
 ## Geometric Brownian Motion
 Explored a stochastic differential equation to investigate geometric brownian motion which is often used in mathematical finance to model stock prices in the Black–Scholes model.
+
+## The Sharpe Ratio &  Risk and Returns
+Completed the DataCamp project on the Sharpe ratio, which is used to compare the return of an investment with its risk.
